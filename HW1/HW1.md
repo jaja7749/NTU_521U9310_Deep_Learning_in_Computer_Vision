@@ -88,7 +88,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](images/output_8_0.png)
     
 
 
@@ -116,7 +116,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![png](images/output_10_0.png)
     
 
 
@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](images/output_14_0.png)
     
 
 
@@ -188,7 +188,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
@@ -224,7 +224,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](images/output_22_0.png)
     
 
 
@@ -289,7 +289,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](images/output_28_0.png)
     
 
 
@@ -343,7 +343,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](images/output_32_0.png)
     
 
 
@@ -390,7 +390,7 @@ pd.DataFrame(model.cv_results_).set_index('rank_test_score').sort_index()
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -554,7 +554,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](images/output_39_0.png)
     
 
 
@@ -570,7 +570,7 @@ plt.show()
 
 
     
-![png](output_40_1.png)
+![png](images/output_40_1.png)
     
 
 
@@ -605,7 +605,7 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![png](images/output_42_0.png)
     
 
 
@@ -632,6 +632,6 @@ plt.show()
 
 
     
-![png](output_44_0.png)
+![png](images/output_44_0.png)
     
 
