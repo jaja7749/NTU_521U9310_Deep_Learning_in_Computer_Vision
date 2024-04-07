@@ -34,6 +34,23 @@
 
 Please replace `value_layerX`, `grad_layerX`, and `update_layerX` with the actual numerical values for each layer accordingly, the way of presentation is also the same for the second iteration.
 
+### *Answer*
+
+**First update - weight**
+
+|           | Layer 1      | Layer 2      | Layer 3      |
+|-----------|--------------|--------------|--------------|
+| Parameter |$`W^{[0]} = \left [\begin{matrix} 1 \\ 1 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} -0.5 \\ -0.5 \end{matrix} \right ]`$|$`W^{[1]} = \left [ \begin{matrix}1 & 1\\ 1 & 1\end{matrix} \right ],  b^{[1]} = \left [\begin{matrix} -0.5 \\ -0.5 \end{matrix} \right ]`$|$`W^{[2]} = \left [ \begin{matrix}1 & 1\end{matrix} \right ],  b^{[2]} = \left [ -0.5 \right ]`$|
+| Gradient  |$`W^{[0]} = \left [\begin{matrix} 92 \\ 92 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} 23 \\ 23 \end{matrix} \right ]`$|$`dLdW^{[1]} = \left [ \begin{matrix}40.25 & 40.25\\ 40.25 & 40.25\end{matrix} \right ],  dLdb^{[1]} = \left [\begin{matrix} 11.5 \\ 11.5 \end{matrix} \right ]`$|$`dLdW^{[2]} = \left [ \begin{matrix}74.75 & 74.75\end{matrix} \right ],  dLdb^{[2]} = \left [ 11.5 \right ]`$|
+| Updated   |$`W^{[0]} = \left [\begin{matrix} 0.08 \\ 0.08 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} -0.73 \\ -0.73 \end{matrix} \right ]`$|$`W^{[1]} = \left [ \begin{matrix}0.5975 & 0.5975\\ 0.5975 & 0.5975\end{matrix} \right ],  b^{[1]} = \left [\begin{matrix} -0.615 \\ -0.615 \end{matrix} \right ]`$|$`W^{[2]} = \left [ \begin{matrix}0.2525 & 0.2525\end{matrix} \right ],  b^{[2]} = \left [ -0.615 \right ]`$|
+
+**First update - bias**
+
+|           | Layer 1      | Layer 2      | Layer 3      |
+|-----------|--------------|--------------|--------------|
+| Parameter |$`W^{[0]} = \left [\begin{matrix} 0.08 \\ 0.08 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} -0.73 \\ -0.73 \end{matrix} \right ]`$|$`W^{[1]} = \left [ \begin{matrix}0.5975 & 0.5975\\ 0.5975 & 0.5975\end{matrix} \right ],  b^{[1]} = \left [\begin{matrix} -0.615 \\ -0.615 \end{matrix} \right ]`$|$`W^{[2]} = \left [ \begin{matrix}0.2525 & 0.2525\end{matrix} \right ],  b^{[2]} = \left [ -0.615 \right ]`$|
+| Gradient  |$`W^{[0]} = \left [\begin{matrix} 0 \\ 0 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} 0 \\ 0 \end{matrix} \right ]`$|$`dLdW^{[1]} = \left [ \begin{matrix}0 & 0\\ 0 & 0\end{matrix} \right ],  dLdb^{[1]} = \left [\begin{matrix} 0 \\ 0 \end{matrix} \right ]`$|$`dLdW^{[2]} = \left [ \begin{matrix}0 & 0\end{matrix} \right ],  dLdb^{[2]} = \left [ -1.615 \right ]`$|
+| Updated   |$`W^{[0]} = \left [\begin{matrix} 0.08 \\ 0.08 \end{matrix} \right ], b^{[0]} = \left [\begin{matrix} -0.73 \\ -0.73 \end{matrix} \right ]`$|$`W^{[1]} = \left [ \begin{matrix}0.5975 & 0.5975\\ 0.5975 & 0.5975\end{matrix} \right ],  b^{[1]} = \left [\begin{matrix} -0.615 \\ -0.615 \end{matrix} \right ]`$|$`W^{[2]} = \left [ \begin{matrix}0.2525 & 0.2525\end{matrix} \right ],  b^{[2]} = \left [ -0.59885 \right ]`$|
 
 
 ```python
