@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 
 #### 1. Please use the defined input matrix and the kernel below, and use the ___scipy.signal.convolve2d___ and ___cv2.filter2D___ to implement the convolution operation. The result output after convolution is given for your reference. (With half zero padding to make the shape fixed) (50%)
 
-![p1.png](attachment:cb72d772-4cd4-43f2-965d-e4edd7832111.png)
+![p1.png](output_8_0.png)
 
 
 ```python
