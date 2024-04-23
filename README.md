@@ -14,7 +14,8 @@ https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=521%20U9310&cl
 |      References      |Several excellent online sources are: <ul><li>A Course in Machine Learning, electronic source available at: http://ciml.info/</li><li>Christopher Bishop (2006), Pattern Recognition and Machine Learning, Springer</li><li>Goodfellow et. al (2016), Deep Learning, MIT Press, electronic source available at: https://www.deeplearningbook.org/</li></ul>|
 
 ## Assignments
-|    Item    |    Content                                                                       |
-|------------|----------------------------------------------------------------------------------|
-|  Homework1 | __**Support Vector Machine (SVM)**__ The parameter impact of the model.          |
-|  Homework2 | __**Neural Network (NN)**__ The NN model backpropagation, and regression design. |
+|    Item    |    Content                                                                           |
+|------------|--------------------------------------------------------------------------------------|
+|  Homework1 | __**Support Vector Machine (SVM)**__ The parameter impact of the model.              |
+|  Homework2 | __**Neural Network (NN)**__ The NN model backpropagation, and regression design.     |
+|  Homework3 | __**Convolution Applied**__ The filter applied on image processing (Blur, Sobel...). |
