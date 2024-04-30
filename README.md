@@ -19,3 +19,4 @@ https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=521%20U9310&cl
 |  Homework1 | __**Support Vector Machine (SVM)**__ The parameter impact of the model.              |
 |  Homework2 | __**Neural Network (NN)**__ The NN model backpropagation, and regression design.     |
 |  Homework3 | __**Convolution Applied**__ The filter applied on image processing (Blur, Sobel...). |
+|  Homework4 | __**Transfer Learning**__ Used pre-train model after transfer to predict image.      |
