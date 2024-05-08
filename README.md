@@ -5,6 +5,9 @@ These is some homework or note on this course.
 The course information:
 https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=521%20U9310&class=&dpt_code=50A0&ser_no=28804&semester=112-2
 
+Class Note:
+https://github.com/jaja7749/NTU_521U9310_Deep_Learning_in_Computer_Vision/tree/main/Midterm
+
 ## The course syllabus
 |         Item         |                      Content                       |
 |----------------------|----------------------------------------------------|
