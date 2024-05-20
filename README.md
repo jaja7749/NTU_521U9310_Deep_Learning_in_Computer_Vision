@@ -23,3 +23,4 @@ https://github.com/jaja7749/NTU_521U9310_Deep_Learning_in_Computer_Vision/tree/m
 |  Homework2 | __**Neural Network (NN)**__: The NN model backpropagation, and regression design.     |
 |  Homework3 | __**Convolution Applied**__: The filter applied on image processing (Blur, Sobel...). |
 |  Homework4 | __**Transfer Learning**__: Used pre-train model after transfer to predict image.      |
+|  Homework5 | __**Feature Detection and Description**__: Detection feature and matching image.      |
