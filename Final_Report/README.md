@@ -548,7 +548,7 @@ for e in range(episodes):
 
 
     
-![png](.\images\output_14_3.png)
+![png](images/output_14_3.png)
     
 
 
@@ -604,6 +604,6 @@ plt.savefig("space_invaders2.png")
 
 
     
-![png](.\images\output_16_0.png)
+![png](images/output_16_0.png)
     
 
