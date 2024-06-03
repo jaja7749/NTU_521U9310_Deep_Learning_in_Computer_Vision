@@ -17,10 +17,11 @@ https://github.com/jaja7749/NTU_521U9310_Deep_Learning_in_Computer_Vision/tree/m
 |      References      |Several excellent online sources are: <ul><li>A Course in Machine Learning, electronic source available at: http://ciml.info/</li><li>Christopher Bishop (2006), Pattern Recognition and Machine Learning, Springer</li><li>Goodfellow et. al (2016), Deep Learning, MIT Press, electronic source available at: https://www.deeplearningbook.org/</li></ul>|
 
 ## Assignments
-|    Item    |    Content                                                                            |
-|------------|---------------------------------------------------------------------------------------|
-|  Homework1 | __**Support Vector Machine (SVM)**__: The parameter impact of the model.              |
-|  Homework2 | __**Neural Network (NN)**__: The NN model backpropagation, and regression design.     |
-|  Homework3 | __**Convolution Applied**__: The filter applied on image processing (Blur, Sobel...). |
-|  Homework4 | __**Transfer Learning**__: Used pre-train model after transfer to predict image.      |
-|  Homework5 | __**Feature Detection and Description**__: Detection feature and matching image.      |
+|    Item    |    Content                                                                                    |
+|------------|-----------------------------------------------------------------------------------------------|
+|  Homework1 | __**Support Vector Machine (SVM)**__: The parameter impact of the model.                      |
+|  Homework2 | __**Neural Network (NN)**__: The NN model backpropagation, and regression design.             |
+|  Homework3 | __**Convolution Applied**__: The filter applied on image processing (Blur, Sobel...).         |
+|  Homework4 | __**Transfer Learning**__: Used pre-train model after transfer to predict image.              |
+|  Homework5 | __**Feature Detection and Description**__: Detection feature and matching image.              |
+|  Homework6 | __**Image Stitching**__: Using features and calculating homography matrix to stitche images.  |
